@@ -14,3 +14,4 @@ Made with joy and pride, is my small aquarium.
 -Decorator.
 -State.
 -Visitor.
+-Observer.
