@@ -15,3 +15,23 @@ Made with joy and pride, is my small aquarium.
 -State.
 -Visitor.
 -Observer.
+
+
+A peek of what the aquarium looks like:
+![image](https://user-images.githubusercontent.com/93178619/192960772-e67cbbf7-1ae1-4a4f-8112-c33c74fc0acf.png)
+
+![image](https://user-images.githubusercontent.com/93178619/192960967-bcdf4f8e-4ba9-4382-8129-9362202ffca8.png)
+
+![image](https://user-images.githubusercontent.com/93178619/192961042-d05fd379-86bf-423f-b2ec-202179e6fb7b.png)
+
+
+![image](https://user-images.githubusercontent.com/93178619/192961164-e5dc1e55-338b-48c0-a44e-fbd2d58eb0db.png)
+
+
+![image](https://user-images.githubusercontent.com/93178619/192961599-3eb14511-638a-4803-8e32-6d0978fa36b5.png)
+
+
+The Aquarium has many further fun features, such as feeding the living creatures and keeping track of them all!
+
+
+
