@@ -6,7 +6,7 @@ Within feeding the livin creature, it "Gains weight" (becomes larger in size) an
 There's much more to my little humble tank!
 Made with joy and pride, is my small aquarium. 
 
-***Design Patterns I've Use: 
+***Design Patterns I've Used: 
 -Factoy Method. 
 -Abstract Factory.
 -Momento.
